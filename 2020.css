@@ -1,0 +1,20 @@
+#parent-container
+{
+    height: 250px;
+    width: 300px;
+    border: 1px solid;
+}
+h4{
+text-align: center;
+}
+   
+button{
+    margin-left: 40%;
+   padding: 1px;
+}
+.monitor{
+    text-align: center;
+}
+.ok{
+    margin-left: 5%;
+}
